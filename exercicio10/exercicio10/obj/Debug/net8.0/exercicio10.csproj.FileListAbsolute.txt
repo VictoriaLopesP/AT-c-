@@ -1,0 +1,14 @@
+C:\Users\victo\source\repos\exercicio10\exercicio10\bin\Debug\net8.0\exercicio10.exe
+C:\Users\victo\source\repos\exercicio10\exercicio10\bin\Debug\net8.0\exercicio10.deps.json
+C:\Users\victo\source\repos\exercicio10\exercicio10\bin\Debug\net8.0\exercicio10.runtimeconfig.json
+C:\Users\victo\source\repos\exercicio10\exercicio10\bin\Debug\net8.0\exercicio10.dll
+C:\Users\victo\source\repos\exercicio10\exercicio10\bin\Debug\net8.0\exercicio10.pdb
+C:\Users\victo\source\repos\exercicio10\exercicio10\obj\Debug\net8.0\exercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\exercicio10\exercicio10\obj\Debug\net8.0\exercicio10.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\exercicio10\exercicio10\obj\Debug\net8.0\exercicio10.AssemblyInfo.cs
+C:\Users\victo\source\repos\exercicio10\exercicio10\obj\Debug\net8.0\exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\exercicio10\exercicio10\obj\Debug\net8.0\exercicio10.dll
+C:\Users\victo\source\repos\exercicio10\exercicio10\obj\Debug\net8.0\refint\exercicio10.dll
+C:\Users\victo\source\repos\exercicio10\exercicio10\obj\Debug\net8.0\exercicio10.pdb
+C:\Users\victo\source\repos\exercicio10\exercicio10\obj\Debug\net8.0\exercicio10.genruntimeconfig.cache
+C:\Users\victo\source\repos\exercicio10\exercicio10\obj\Debug\net8.0\ref\exercicio10.dll
