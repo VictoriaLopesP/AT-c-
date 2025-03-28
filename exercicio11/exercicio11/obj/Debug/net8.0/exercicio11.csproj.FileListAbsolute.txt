@@ -1,0 +1,14 @@
+C:\Users\victo\source\repos\exercicio11\exercicio11\bin\Debug\net8.0\exercicio11.exe
+C:\Users\victo\source\repos\exercicio11\exercicio11\bin\Debug\net8.0\exercicio11.deps.json
+C:\Users\victo\source\repos\exercicio11\exercicio11\bin\Debug\net8.0\exercicio11.runtimeconfig.json
+C:\Users\victo\source\repos\exercicio11\exercicio11\bin\Debug\net8.0\exercicio11.dll
+C:\Users\victo\source\repos\exercicio11\exercicio11\bin\Debug\net8.0\exercicio11.pdb
+C:\Users\victo\source\repos\exercicio11\exercicio11\obj\Debug\net8.0\exercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\exercicio11\exercicio11\obj\Debug\net8.0\exercicio11.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\exercicio11\exercicio11\obj\Debug\net8.0\exercicio11.AssemblyInfo.cs
+C:\Users\victo\source\repos\exercicio11\exercicio11\obj\Debug\net8.0\exercicio11.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\exercicio11\exercicio11\obj\Debug\net8.0\exercicio11.dll
+C:\Users\victo\source\repos\exercicio11\exercicio11\obj\Debug\net8.0\refint\exercicio11.dll
+C:\Users\victo\source\repos\exercicio11\exercicio11\obj\Debug\net8.0\exercicio11.pdb
+C:\Users\victo\source\repos\exercicio11\exercicio11\obj\Debug\net8.0\exercicio11.genruntimeconfig.cache
+C:\Users\victo\source\repos\exercicio11\exercicio11\obj\Debug\net8.0\ref\exercicio11.dll
